@@ -25,7 +25,13 @@
     text-transform: uppercase   ;
     font-weight: 100;
     color: #fff;
+    cursor: pointer;
 }
+.home-page-top-container nav ul li:hover
+{
+  text-decoration: underline;
+}
+
 
 .home-page-top-container nav ul img {
     width: 55px;
@@ -114,4 +120,3 @@
         display: block;
     }
 }
-
